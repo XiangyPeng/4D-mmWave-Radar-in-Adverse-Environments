@@ -37,13 +37,13 @@ Dataset
 
 | Dataset           | Paper                                                                                   | Data Download                                           |
 |-------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| MSC RAD4R         | Msc-rad4r: ROS-based automotive dataset with 4D radar                                     | [Website](https://mscrad4r.github.io/home/)             |
+| MSC RAD4R         | Msc-rad4r: ROS-based automotive dataset with 4D radar                                     | [GitHub](https://mscrad4r.github.io/home/)             |
 | NTU4DRadLM        | Ntu4dradlm: 4D radar-centric multi-modal dataset for localization and mapping             | [GitHub](https://github.com/junzhang2016/NTU4DRadLM)    |
 | DIDLM             | DIDLM: A SLAM Dataset for Difficult Scenarios Featuring Infrared, Depth Cameras, LIDAR, 4D Radar, and Others under Adverse Weather, Low Light Conditions, and Rough Roads | [GitHub](https://github.com/GongWeiSheng/DIDLM)         |
-| MINE4DRAD         | Autonomous Mining Transportation Systems: Integrating 4D Mmwave Radar for Enhanced Detection of Obstructed Static Objects | [Website](https://mscrad4r.github.io/home/)             |
+| MINE4DRAD         | Autonomous Mining Transportation Systems: Integrating 4D Mmwave Radar for Enhanced Detection of Obstructed Static Objects | [GitHub](https://mscrad4r.github.io/home/)             |
 | SNAIL Radar       | SNAIL Radar: A large-scale diverse benchmark for evaluating 4D-radar-based SLAM           | [GitHub](https://github.com/snail-radar/snail-radar.github.io) |
 | HeRCULES          | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM | [Website](https://sites.google.com/view/herculesdataset) |
-| NavINST           | The NavINST Dataset for Multi-Sensor Autonomous Navigation                                | [Website](https://navinst.github.io/)                   |
+| NavINST           | The NavINST Dataset for Multi-Sensor Autonomous Navigation                                | [GitHub](https://navinst.github.io/)                   |
 
 ## License
 
@@ -66,22 +66,22 @@ Methods
 
 | Paper                                                                                   | Paper Link                                          |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-|  K-radar: 4d radar object detection for autonomous driving in various weather conditions                                  | [GitHub](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)      |
-| Radarocc: Robust 3d occupancy prediction with 4d imaging radar  | [GitHub](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html)       |
-| RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding | [GitHub](https://ieeexplore.ieee.org/abstract/document/10599871)       |
-|  Enhanced k-radar: Optimal density reduction to improve detection performance and accessibility of 4d radar tensor-based object detection | [GitHub](https://ieeexplore.ieee.org/abstract/document/10186820)       |
-| Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions | [GitHub](https://arxiv.org/abs/2408.06772)       |
-| Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion | [GitHub](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8f7f12b29d9b8c227785f6b529f63b7-Abstract-Conference.html)       |
-| DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection | [GitHub](https://ieeexplore.ieee.org/abstract/document/10769556)       |
-| Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions | [GitHub](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)       |
-| LiDAR-Based All-Weather 3D Object Detection via Prompting and Distilling 4D Radar | [GitHub](https://link.springer.com/chapter/10.1007/978-3-031-72992-8_21)       |
-| L4DR: Lidar-4DRadar fusion for weather-robust 3D object detection | [GitHub](https://ojs.aaai.org/index.php/AAAI/article/view/32397)       |
-| Efficient 4D Radar Data Auto-labeling Method using LiDAR-based Object Detection Network | [GitHub](https://ieeexplore.ieee.org/abstract/document/10588669)       |
-| Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera | [GitHub](https://arxiv.org/abs/2503.07029)       |
-| 4D RadarPR: Context-Aware 4D Radar Place Recognition in harsh scenarios | [GitHub](https://www.sciencedirect.com/science/article/pii/S0924271625000383)       |
-| Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception | [GitHub](https://arxiv.org/abs/2501.15394)       |
-| Human Detection from 4D Radar Data in Low-Visibility Field Conditions | [GitHub](https://arxiv.org/abs/2404.05307)       |
-| TransLoc4D: Transformer-based 4D Radar Place Recognition | [GitHub](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_TransLoc4D_Transformer-based_4D_Radar_Place_Recognition_CVPR_2024_paper.html)       |
+|  K-radar: 4d radar object detection for autonomous driving in various weather conditions                                  | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)      |
+| Radarocc: Robust 3d occupancy prediction with 4d imaging radar  | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html)       |
+| RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding | [Paper](https://ieeexplore.ieee.org/abstract/document/10599871)       |
+|  Enhanced k-radar: Optimal density reduction to improve detection performance and accessibility of 4d radar tensor-based object detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10186820)       |
+| Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions | [Paper](https://arxiv.org/abs/2408.06772)       |
+| Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8f7f12b29d9b8c227785f6b529f63b7-Abstract-Conference.html)       |
+| DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10769556)       |
+| Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)       |
+| LiDAR-Based All-Weather 3D Object Detection via Prompting and Distilling 4D Radar | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72992-8_21)       |
+| L4DR: Lidar-4DRadar fusion for weather-robust 3D object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32397)       |
+| Efficient 4D Radar Data Auto-labeling Method using LiDAR-based Object Detection Network | [Paper](https://ieeexplore.ieee.org/abstract/document/10588669)       |
+| Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera | [Paper](https://arxiv.org/abs/2503.07029)       |
+| 4D RadarPR: Context-Aware 4D Radar Place Recognition in harsh scenarios | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625000383)       |
+| Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception | [Paper](https://arxiv.org/abs/2501.15394)       |
+| Human Detection from 4D Radar Data in Low-Visibility Field Conditions | [Paper](https://arxiv.org/abs/2404.05307)       |
+| TransLoc4D: Transformer-based 4D Radar Place Recognition | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_TransLoc4D_Transformer-based_4D_Radar_Place_Recognition_CVPR_2024_paper.html)       |
 
 
 
@@ -90,19 +90,19 @@ Methods
 
 | Paper                                                                                   | Paper Link                                          |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Augmented Millimeter Wave Radar and Vision Fusion Simulator for Roadside Perception | [GitHub](https://www.mdpi.com/2079-9292/13/14/2729)       |
-| Adaptive Training for Robust Object Detection in Autonomous Driving Environments | [GitHub](https://ieeexplore.ieee.org/abstract/document/10634305)       |
-|  V2X-R: Cooperative Lidar-4D Radar Fusion for 3D Object Detection with Denoising Diffusion | [GitHub](https://github.com/ylwhxht/V2X-R)       |
+| Augmented Millimeter Wave Radar and Vision Fusion Simulator for Roadside Perception | [Paper](https://www.mdpi.com/2079-9292/13/14/2729)       |
+| Adaptive Training for Robust Object Detection in Autonomous Driving Environments | [Paper](https://ieeexplore.ieee.org/abstract/document/10634305)       |
+|  V2X-R: Cooperative Lidar-4D Radar Fusion for 3D Object Detection with Denoising Diffusion | [Paper](https://github.com/ylwhxht/V2X-R)       |
 
 
 ## Fog and Smoke
 
 | Paper                                                                                   | Paper Link                                          |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather | [GitHub](https://ieeexplore.ieee.org/abstract/document/10491101)       |
-| L4DR: Lidar-4DRadar fusion for weather-robust 3D object detection | [GitHub](https://ojs.aaai.org/index.php/AAAI/article/view/32397)       |
-| Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions | [GitHub](https://arxiv.org/abs/2403.17441)       |
-| RIDERS: Radar-Infrared Depth Estimation for Robust Sensing | [GitHub](https://ieeexplore.ieee.org/abstract/document/10623522)       |
+| TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather | [Paper](https://ieeexplore.ieee.org/abstract/document/10491101)       |
+| L4DR: Lidar-4DRadar fusion for weather-robust 3D object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32397)       |
+| Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions | [Paper](https://arxiv.org/abs/2403.17441)       |
+| RIDERS: Radar-Infrared Depth Estimation for Robust Sensing | [Paper](https://ieeexplore.ieee.org/abstract/document/10623522)       |
 
 
 
@@ -110,11 +110,11 @@ Methods
 
 | Paper                                                                                   | Paper Link                                          |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3-D Object Detection With 4-D Radar | [GitHub](https://ieeexplore.ieee.org/abstract/document/10847758)       |
-| RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection | [GitHub](https://ieeexplore.ieee.org/abstract/document/10138035)       |
-| LXL: LiDAR Excluded Lean 3D Object Detection With 4D Imaging Radar and Camera Fusion | [GitHub](https://ieeexplore.ieee.org/abstract/document/10268601)       |
-| MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving | [GitHub](https://ieeexplore.ieee.org/abstract/document/10947638)       |
-| HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection | [GitHub](https://ojs.aaai.org/index.php/AAAI/article/view/32328)       |
+| DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3-D Object Detection With 4-D Radar | [Paper](https://ieeexplore.ieee.org/abstract/document/10847758)       |
+| RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10138035)       |
+| LXL: LiDAR Excluded Lean 3D Object Detection With 4D Imaging Radar and Camera Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/10268601)       |
+| MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10947638)       |
+| HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32328)       |
 
 
 
