@@ -1,7 +1,7 @@
 # 4D mmWave Radar for Sensing Enhancement in Adverse Environments: Advances and Challenges
 This is the repository for 4D mmWave Radar for Sensing Enhancement in Adverse Environments: Advances and Challenges
 
-![weather](https://github.com/user-attachments/assets/7e3322d6-c121-4968-9212-3edf0432b734)
+![weather](https://github.com/user-attachments/assets/7e3322d6-c121-4968-9212-3edf0432b734)       
 Fig. 1: Visualization of camera, LiDAR and 4D mmWave data in rainy nighttime. The raw data is from the Dual Radar dataset. (a) shows the camera image. (b) illustrates LiDAR point clouds in blue and 4D mmWave radar (Arbe Phoenix) point clouds in red.Snow.
 
 Abstract
