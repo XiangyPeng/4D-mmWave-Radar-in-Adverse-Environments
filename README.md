@@ -1,6 +1,9 @@
 # 4D mmWave Radar for Sensing Enhancement in Adverse Environments: Advances and Challenges
 This is the repository for 4D mmWave Radar for Sensing Enhancement in Adverse Environments: Advances and Challenges
 
+![weather](https://github.com/user-attachments/assets/7e3322d6-c121-4968-9212-3edf0432b734)
+Fig. 1: Visualization of camera, LiDAR and 4D mmWave data in rainy nighttime. The raw data is from the Dual Radar dataset. (a) shows the camera image. (b) illustrates LiDAR point clouds in blue and 4D mmWave radar (Arbe Phoenix) point clouds in red.Snow.
+
 Abstract
 ------
 Intelligent transportation systems require accurate and reliable sensing. However, adverse environments, such as rain, snow, and fog, can significantly degrade the performance of LiDAR and cameras. In contrast, 4D mmWave radar not only provides 3D point clouds and velocity measurements but also maintains robustness in challenging conditions. Recently, research on 4D mmWave radar under adverse environments has been growing, but a comprehensive review is still lacking. To bridge this gap, this work reviews the current research on 4D mmWave radar under adverse environments. First, we present an overview of existing 4D mmWave radar datasets encompassing diverse weather and lighting scenarios. Subsequently, we analyze current learning-based methods leveraging 4D mmWave radar to enhance performance according to different adverse conditions. Finally, the challenges and potential future directions are discussed for advancing 4D mmWave radar applications in harsh environments. To the best of our knowledge, this is the first review specifically concentrating on 4D mmWave radar in adverse environments. 
